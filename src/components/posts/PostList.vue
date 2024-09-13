@@ -1,13 +1,11 @@
 <template>
-  <div class="post-">
-    <div v-for="post in posts" :key="post.id" >
-    
-    </div>
-  </div>
-  <div class="post-preview" v-for="post in posts" :key="post.id">
+  <div  v-for="post in posts" :key="post.id">
+    <div class="post-preview" >
     <PostSingle :post="post"/>
-      </div>
+        </div>
       <hr>
+  </div>
+ 
 </template>
 
 <script>
