@@ -1,24 +1,56 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Artikel Pertama",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta consectetur alias delectus dicta vel facere autem esse quas recusandae exercitationem voluptatibus eos earum eius, similique distinctio repellat quasi ex. Repudiandae.",
-            "tags": [
-                "web",
-                "vue",
-                "node"
-            ]
-        },
-        {
-            "id": 2,
-            "title": "Artikel Kedua",
-            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit illum debitis praesentium id sapiente? Ab, velit quibusdam nostrum dolore harum alias eum suscipit doloribus fuga, facilis fugit? Temporibus, eveniet dolore!",
-            "tags": [
-                "js",
-                "html",
-                "css"
-            ]
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Artikel Pertama",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta consectetur alias delectus dicta vel facere autem esse quas recusandae exercitationem voluptatibus eos earum eius, similique distinctio repellat quasi ex. Repudiandae.",
+      "tags": [
+        "web",
+        "vue",
+        "node"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Artikel Kedua",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit illum debitis praesentium id sapiente? Ab, velit quibusdam nostrum dolore harum alias eum suscipit doloribus fuga, facilis fugit? Temporibus, eveniet dolore!",
+      "tags": [
+        "js",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "id": "9583",
+      "title": "Data post baru",
+      "body": "",
+      "tags": [
+        "vue",
+        "firebase",
+        "boostrap"
+      ]
+    },
+    {
+      "id": "b71a",
+      "title": "Data Post baru",
+      "body": "",
+      "tags": [
+        "vue",
+        "firebase",
+        "bootstrap"
+      ]
+    },
+    {
+      "id": "cf19",
+      "title": "asdasd",
+      "body": "",
+      "tags": []
+    },
+    {
+      "id": "4288",
+      "title": "asdasda",
+      "body": "",
+      "tags": []
+    }
+  ]
 }
