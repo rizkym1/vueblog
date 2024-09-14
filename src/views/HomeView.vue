@@ -46,9 +46,6 @@ export default {
     load()
 
     return {posts, error}
-  },
-  mounted(){
-    console.log($('.para').text())
   }
 }
 </script>

@@ -5,7 +5,10 @@
               <h3 class="post-subtitle"><p>{{ snippet }}</p></h3>
           </router-link>
           <span class="post-meta" v-for="tag in post.tags" :key="tag" >
-            #{{ tag }}
+            <router-link :to="{name: 'Tag', params: {tag: tag}}">
+                #{{ tag }}
+            </router-link>
+            
           </span>
 </template>
 
